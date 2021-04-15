@@ -1,0 +1,43 @@
+body
+{
+  background-color: #198754;
+}
+
+.done
+{
+  text-decoration: line-through;
+}
+
+body{
+  font-family: Helvetica;
+  margin: 10px;
+}
+
+.container{
+  padding: 20px;
+}
+
+.container input{
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid #ddd;
+}
+
+input[type=text] {
+  width: 30%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.remove{
+  float: right;
+  padding: 9px;
+  background: #e9ecef;
+  width: 30px;
+  font-size: 18px;
+  text-align: center;
+  color: crimson;
+  cursor: pointer;
+}
